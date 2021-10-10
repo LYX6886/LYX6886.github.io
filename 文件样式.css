@@ -1,0 +1,46 @@
+body {
+background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F0179865b7a1828a80120d8c08fb3ff.gif&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1635947984&t=728ac5d13f554877296d85ecec4bd816);
+}
+h1,h2,h3{
+ color:steelblue;
+ opacity: all;
+} 
+p{
+    color: greenyellow;
+}
+a{
+    color: orangered;
+}
+h2{
+   font-weight: bold ;
+}
+body{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 5px;
+    padding-left: 20px;
+ padding-right: 20px
+}
+div.照片{
+    border-width: 1px;
+ border-style: solid;
+ border-color: gray;
+ border-radius: 5px;
+
+}
+image{
+    float: left;
+}
+div.照片-end {
+ clear: both;
+} 
+#center{
+  background-image: url(C:\Users\lenovo\Desktop\小哆啦.jpg), url(https://img2.baidu.com/it/u=350874985,3632960215&fm=26&fmt=auto);
+  background-position: right bottom, right top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+}

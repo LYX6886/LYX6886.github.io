@@ -25,19 +25,7 @@ body{
     padding-left: 20px;
  padding-right: 20px
 }
-div.照片{
-    border-width: 1px;
- border-style: solid;
- border-color: gray;
- border-radius: 5px;
 
-}
-image{
-    float: left;
-}
-div.照片-end {
- clear: both;
-} 
 #center{
   background-image: url(C:\Users\lenovo\Desktop\小哆啦.jpg), url(https://img2.baidu.com/it/u=350874985,3632960215&fm=26&fmt=auto);
   background-position: right bottom, right top;
